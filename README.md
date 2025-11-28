@@ -1,6 +1,7 @@
 # KiCad to EasyEDA Footprint Converter
 
 A Python script to convert KiCad footprint files (.kicad_mod) to EasyEDA JSON format for seamless PCB design workflow migration.
+This problem stems from finding incompatible platform dependent files on websites like digikey and mouser.
 
 ## Overview
 
