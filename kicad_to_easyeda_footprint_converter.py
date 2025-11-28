@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 KiCad to EasyEDA Footprint Converter
-Converts KiCad .kicad_mod files to EasyEDA JSON format
+Converts KiCad .kicad_mod files to EasyEDA JSON format for easy import into EasyEDA
 """
 
 import re
